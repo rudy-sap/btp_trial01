@@ -1,0 +1,5 @@
+@EndUserText.label: 'PO Service Definition'
+define service zcb998014_sdef_po {
+  expose zcb998014_ddlp_po;
+  expose zcb998014_ddl_po;
+}
